@@ -33,7 +33,7 @@ author: "Max deGroot"
 title: "max(deGroot)"
 description: "A blog that highlights my research and academic interests."
 keywords: "degroot, Max, personal, deep learning, blog"
-favicon: "/img/favicon.ico"
+favicon: ""
 
 ################
 # Header layout #
@@ -62,7 +62,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Minimal: max(°√)"
 
 
-me-img: "/img/IMG_1418.png"
+me-img: "/img/myface.png"
 
 ##############################
 # Color the browser elements #
