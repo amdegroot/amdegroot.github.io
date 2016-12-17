@@ -39,9 +39,9 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon:
 
-background-img: "../img/intro-bg.jpg"
+background-img: "/img/VBWV3664.png"
 
 ##############################
 # Dynamic Text on the Header #
@@ -62,7 +62,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Minimal: max(°√)"
 
 
-me-img: "/img/VBWV3664.png"
+me-img: "/img/IMG_1418.png"
 
 ##############################
 # Color the browser elements #
