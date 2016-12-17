@@ -115,12 +115,27 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "August 2016 - Today"
+    description: "Developing Python Adversarial ML library  @ Vanderbilt"
+  - image: "/img/timeline/spidertocat.png"
+    date: "May 2016 - August 2016"
+    description: "Deep Learning Research Internship @ Digital Reasoning"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "January 2016 - May 2016"
+    description: "C++ Data Structures Course TA @ Vanderbilt"
+  - image: "/img/timeline/spidertocat.png"
+    date: "August 2015 - December 2015"
+    description: "Java OOP Course TA @ Vanderbilt"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "June 2015 - August 2015"
+    description: "Summer Courses to Catch Up"
+  - image: "/img/timeline/spidertocat.png"
+    date: "January 2015"
+    description: "Switched Major to Comp. Sci."
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "August 2013 - December 2014"
+    description: "Biomedical Engineering Major at Vandy"
 
 # First image of the Timeline
 
