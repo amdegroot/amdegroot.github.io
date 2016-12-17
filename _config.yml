@@ -55,8 +55,12 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "English: deGroot"
+  - text: "Dutch: The Great"
+  - text: "Calculator: DEG √"
+  - text: "Java: int erestedInDeepLearning = max(deGroot);"
+  - text: "Minimal: max(°√)"
+
 
 me-img: "/img/jetpacktocat.png"
 
