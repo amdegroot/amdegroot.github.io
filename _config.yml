@@ -55,10 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "English: deGroot"
+  - text: "English: de Groot"
   - text: "Dutch: The Great"
   - text: "Calculator: DEG √"
-  - text: "Java: int erestedInDeepLearning = max(deGroot);"
   - text: "Minimal: max(°√)"
 
 
